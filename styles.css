@@ -155,6 +155,10 @@ section {
     }
 }
 
+#wiki p {
+    text-align: center;
+}
+
 #wiki-link {
     font-weight: 200px;
 }
